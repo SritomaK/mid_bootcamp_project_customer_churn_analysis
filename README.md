@@ -10,8 +10,34 @@ The data for this project was obtained from Kaggle's Telecom customer churn data
 For more information refer to the following link from where the dataset was sourced -
 #### (https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113/data)
 
-
-## Business Problem Statement
 ## Tools
+
 ## Workflow
-## Insights
+  ### Data Exploration Plan:
+
+1. Data Overview:
+
+  * Load the dataset into your preferred analysis environment.
+  * Review the structure of the dataset, examining features and data types.
+  * Identify key columns related to customer demographics and churn status.
+    
+2. Descriptive Analysis:
+
+Calculate and review summary statistics for numeric columns (mean, median, standard deviation, etc.).
+Visualize the distribution of churn status and identify any discernible trends.
+Explore numeric variables that may impact churn.
+Categorical Analysis:
+
+Explore categorical variables such as gender, billing method, etc.
+Analyze the distribution of these variables and their impact on churn rates.
+Utilize visualizations (e.g., bar charts) to enhance understanding.
+Churn Reasons:
+
+Investigate reasons for customer churn. This may involve specific features like call duration, billing issues, etc.
+Understand the main drivers behind customer attrition by exploring relevant features.
+Consider creating visualizations or charts to illustrate key findings.
+Correlation Analysis:
+
+Perform correlation analysis to understand relationships between different variables.
+Identify features that correlate strongly with churn status.
+Use correlation matrices and visualizations (e.g., heatmaps) for a comprehensive overview.## Insights
