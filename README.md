@@ -7,9 +7,9 @@ This project aims to conduct an Exploratory Data Analysis on the Telco Customer 
 The data for this project comes from Kaggle's Telecom customer churn dataset, featuring details on more than 7,000 telecommunications customers. It includes information about their demographics, and usage patterns, and indicates whether they decided to switch services or not.
 
 For more information refer to the following link from where the dataset was sourced -
-#### (https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113/data)
+https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113/data
 
-### Data Exploration Plan:
+## Data Exploration Plan
 
 1. Data Cleaning and Wrangling:
 
@@ -33,6 +33,11 @@ For more information refer to the following link from where the dataset was sour
 * Perform correlation analysis to understand relationships between different variables.
 * Identify features that correlate strongly with churn status.
 * Use correlation matrices and visualizations for a comprehensive overview.
+
+## Conclusion
+Analysis reveals several factors influencing customer churn, encompassing competition offering superior services, attitude and dissatisfaction issues, pricing disparities, and service reliability concerns. Interestingly, gender appears inconsequential in predicting churn. Notably, the first 18 months, especially the initial year, prove critical for client retention, particularly for month-to-month contract holders. Key to retention are attractive offers, specifically those denoted as B, E, and D.
+
+In response, the telecom company should prioritize strategies addressing competitive service enhancements, resolving attitude and satisfaction issues, ensuring transparent and affordable pricing, and maintaining reliable service delivery. Furthermore, a targeted focus on providing enticing offers, particularly those identified as B, E, and D, can effectively engage clients and mitigate churn, aligning with the critical retention period identified in the analysis.
 
 ## Future Scope
 
