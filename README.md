@@ -46,3 +46,6 @@ The project's future scope involves transitioning from exploratory insights to p
 ### Tableau Dashboard
 https://public.tableau.com/views/MidBootcampProj/Sheet8?:language=en-US&:display_count=n&:origin=viz_share_link
 https://public.tableau.com/views/Midbootcamp_custid/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+### Presentation Link
+https://docs.google.com/presentation/d/1pIbnyu1fLqn_4POJ-CP5Sjxu168Om5ac2VGU07xD45o/edit?usp=sharing
